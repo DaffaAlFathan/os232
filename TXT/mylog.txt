@@ -12,3 +12,9 @@ ZCZC W01 200 L02 CLASSROOM/ZOOM meetings related
 ZCZC W01 20 L03 GitHub related
 ZCZC W01 60 L05 QUIZ + Time spent for studying
 ZCZC W01 120 L09 Weekly Assignments
+
+ZCZC W01 20 L01 SCELE/Discord related
+ZCZC W01 200 L02 CLASSROOM/ZOOM meetings related
+ZCZC W01 20 L03 GitHub related
+ZCZC W01 90 L05 QUIZ + Time spent for studying
+ZCZC W01 240 L09 Weekly Assignments
