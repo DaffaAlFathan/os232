@@ -47,3 +47,8 @@ ZCZC W07 20 L01 SCELE/Discord related
 ZCZC W07 20 L03 GitHub related
 ZCZC W07 45 L05 QUIZ + Time spent for studying
 ZCZC W07 240 L09 Weekly Assignments
+
+ZCZC W08 200 L01 SCELE/Discord related
+ZCZC W08 20 L03 GitHub related
+ZCZC W08 45 L05 QUIZ + Time spent for studying
+ZCZC W08 300 L09 Weekly Assignments
